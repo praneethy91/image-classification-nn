@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.idea
 env/
 build/
 develop-eggs/
@@ -28,6 +29,7 @@ var/
 cifar-10-batches-py
 *.p
 *.tar.gz
+image_classification.*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
