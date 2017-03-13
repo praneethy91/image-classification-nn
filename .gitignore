@@ -24,6 +24,11 @@ var/
 .installed.cfg
 *.egg
 
+# CIFAR-10 ignore files
+cifar-10-batches-py
+*.p
+*.tar.gz
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
